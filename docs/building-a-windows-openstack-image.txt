@@ -1,0 +1,6 @@
+Windows image
+
+25GB Virtio disk
+
+virtio ethernet
+
